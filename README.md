@@ -32,7 +32,7 @@
     - **Purchased Categories**: Products the user has already bought
     - **Unpurchased Categories**: Products the user has not bought yet
 
-$\color{red}{\textsf{4 Remove purchased categories from unpurchased categories}}$	
+### **Importent** 4 Remove purchased categories from unpurchased categories
 
 ### 5. Sort Products
 **Separate Sorting**:
