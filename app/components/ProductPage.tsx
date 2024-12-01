@@ -70,7 +70,7 @@ export default function ProductPage({
         </button>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4 col">
         {sortedProducts.map((product) => (
           <div 
             key={product.ProductID} 
