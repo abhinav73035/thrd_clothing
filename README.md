@@ -29,14 +29,10 @@
 
 ### 3. Organize Products into Categories
 **Divide Products**:
-- **Purchased Categories**: Products the user has already bought
-- **Unpurchased Categories**: Products the user has not bought yet
+    - **Purchased Categories**: Products the user has already bought
+    - **Unpurchased Categories**: Products the user has not bought yet
 
-
-```diff
-    - 4 Remove purchased categories from unpurchased categories
-```
-
+$\color{red}{\textsf{4 Remove purchased categories from unpurchased categories}}$	
 
 ### 5. Sort Products
 **Separate Sorting**:
