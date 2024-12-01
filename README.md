@@ -32,7 +32,10 @@
 - **Purchased Categories**: Products the user has already bought
 - **Unpurchased Categories**: Products the user has not bought yet
 
-### 4. <span style="color:red;">Remove purchased categories from unpurchased categories</span>
+
+```diff
+    - 4 Remove purchased categories from unpurchased categories
+```
 
 
 ### 5. Sort Products
